@@ -2,18 +2,11 @@
  	font-family: "Times New Roman", Times;
  	margin: 0;
  }
- h1 {
- 	font-size: 48px;
- }
  .main {
- 	padding-left: 30px;
- 	min-width: 75%;
  }
  .page-title {
  }
  .page-description {
- 	border: 1px solid #000;
- 	padding: 30px;
  }
  .container {
  	width: 100%;
