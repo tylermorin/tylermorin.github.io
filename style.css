@@ -1,33 +1,32 @@
   html, body {
-  font-family: "Times New Roman", Times;
-  margin: 0;
-}
-h1 {
-  font-size: 48px;
-}
-.main {
-  padding-left: 30px;
-  min-width: 75%;
-}
-  p {
-  max-width: 65%;
-  min-width: 500px;
-}
-
-h3 {
-  text-align: center;
-  font-size: 2.6rem;
-}
-  .page-title {
-  text-align: center;
-  font-weight: 100;
-}
-  .page-description {
-  border: 1px solid #000;
-  padding: 30px;
-  text-align: center;
-  }
-.container {
-  width: 100%;
-  max-width: 996px; 
-    }
+ 	font-family: "Times New Roman", Times;
+ 	margin: 0;
+ }
+ h1 {
+ 	font-size: 48px;
+ }
+ .main {
+ 	padding-left: 30px;
+ 	min-width: 75%;
+ }
+ p {
+ 	max-width: 65%;
+ 	min-width: 500px;
+ }
+ h3 {
+ 	text-align: center;
+ 	font-size: 2.6rem;
+ }
+ .page-title {
+ 	text-align: center;
+ 	font-weight: 100;
+ }
+ .page-description {
+ 	border: 1px solid #000;
+ 	padding: 30px;
+ 	text-align: center;
+ }
+ .container {
+ 	width: 100%;
+ 	max-width: 996px;
+ }
