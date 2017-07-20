@@ -2,13 +2,13 @@
  	font-family: "Times New Roman", Times;
  	margin: 0;
  }
+.container {
+ 	width: 100%;
+ 	max-width: 996px;
+ }
  .main {
  }
  .page-title {
  }
  .page-description {
- }
- .container {
- 	width: 100%;
- 	max-width: 996px;
  }
