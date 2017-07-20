@@ -1,6 +1,9 @@
   html, body {
  	font-family: 'Source Sans Pro', sans-serif;
  	margin: 0;
+  h2{
+    text-transform: uppercase;
+    }
  }
 .container {
  	width: 100%;
